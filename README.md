@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Santos Rosati
 
-- Fourth Year Software Engineer Student @ITBA
-- Full Stack Developer
+- Fifth Year Software Engineer Student @ITBA
+- Full Stack Developer (Mainly Backend)
 - Connect with me:
   - https://www.linkedin.com/in/santos-rosati/
-  - srosati@itba.edu.ar
+  - rosatisantos@gmail.com
